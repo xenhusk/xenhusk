@@ -33,9 +33,9 @@ I'm a dedicated and enthusiastic developer with a strong foundation in Web Devel
 
 **Progress:**
 
-- TensorFlow: ![60%](https://progress-bar.dev/60/?title=TensorFlow)
-- AI Image Detection: ![40%](https://progress-bar.dev/40/?title=AI%20Image%20Detection)
-- Cloud/Containerization: ![30%](https://progress-bar.dev/30/?title=Cloud%20%26%20Containers)
+- TensorFlow: [██████░░░░] 60%
+- AI Image Detection: [████░░░░░░] 40%
+- Cloud/Containerization: [███░░░░░░░] 30%
 
 ---
 
