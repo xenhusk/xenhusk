@@ -14,6 +14,17 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xenhusk&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xenhusk&theme=radical" height="150"/>
+</p>
+
+[![Xenhusk's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xenhusk&theme=radical)](https://github.com/xenhusk)
+
+---
+
 🚀 **About Me**
 
 I'm a dedicated and enthusiastic developer with a strong foundation in Web Development, Machine Learning, and Data Analytics. My journey in technology is fueled by a passion for tackling complex challenges, learning new paradigms, and contributing to impactful projects. I thrive in environments where I can continuously grow and apply my skills to create practical and efficient solutions.
@@ -101,17 +112,6 @@ A collection of Java projects, from foundational concepts to practical applicati
 
 ### WasteWatch PH: AI for Marine Litter Identification
 An AI-powered solution for identifying marine litter, demonstrating practical machine learning for environmental impact—image detection, data processing, and model deployment.
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xenhusk&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xenhusk&theme=radical" height="150"/>
-</p>
-
-[![Xenhusk's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xenhusk&theme=radical)](https://github.com/xenhusk)
 
 ---
 
