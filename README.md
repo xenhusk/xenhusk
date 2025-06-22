@@ -249,14 +249,14 @@
             <td align="center" width="50%" style="border: none; padding: 20px;">
                 <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 30px; border-radius: 20px; margin: 15px;">
                     <h3 style="color: white; margin: 0 0 10px 0;">POLYCON</h3>
-                    <p style="color: #e0e7ff; margin: 15px 0;">Smart Healthcare Consultation</p>
+                    <p style="color: #e0e7ff; margin: 15px 0;">Smart Academic Consultation</p>
                     <div style="margin: 20px 0; display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
                         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
                         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
                         <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logoColor=white"/>
                     </div>
                     <p style="color: #cbd5e1; font-size: 14px; line-height: 1.6;">
-                        Comprehensive healthcare platform with real-time speech processing, AI-driven sentiment analysis, and secure authentication systems.
+                        Comprehensive academic platform with real-time speech processing, AI-driven sentiment analysis, and secure authentication systems.
                     </p>
                 </div>
             </td>
