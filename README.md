@@ -72,8 +72,8 @@
             <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xenhusk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=7C3AED&custom_title=Development%20Stats&include_all_commits=true&count_private=true&border_radius=12" />
         </picture>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xenhusk&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&border_radius=12">
-            <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=xenhusk&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&border_radius=12" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-kxe0fudx9-xenhusks-projects.vercel.app/?user=xenhusk&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&border_radius=12">
+            <img width="48%" src="https://github-readme-streak-stats-kxe0fudx9-xenhusks-projects.vercel.app/?user=xenhusk&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&border_radius=12" />
         </picture>
     </div>
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
