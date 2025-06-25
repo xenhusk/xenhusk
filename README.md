@@ -63,7 +63,7 @@
 
 ---
 
-## Developer Analytics
+## Developement Analytics
 
 <div align="center" style="margin: 40px 0;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
