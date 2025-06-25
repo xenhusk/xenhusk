@@ -157,7 +157,7 @@
     <table style="width: 90%; max-width: 1000px; border: none;">
         <tr>
             <td align="center" width="50%" style="border: none; vertical-align: top; padding: 30px;">
-                <h3 style="margin-bottom: 20px;">Featured Project</h3>
+                <h3 style="margin-bottom: 20px;">Featured Projects</h3>
                 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
                     <h2 style="color: white; margin: 0 0 10px 0;">POLYCON</h2>
                     <p style="color: #f0f0f0; margin: 10px 0 20px 0;">Smart Consultation Platform</p>
