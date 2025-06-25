@@ -66,24 +66,20 @@
 ## Development Analytics
 
 <div align="center" style="margin: 40px 0;">
-    <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xenhusk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=7C3AED&custom_title=Development%20Stats&include_all_commits=true&count_private=true&border_radius=12&card_width=320">
-            <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xenhusk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=7C3AED&custom_title=Development%20Stats&include_all_commits=true&count_private=true&border_radius=12" />
-        </picture>
-        <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-kxe0fudx9-xenhusks-projects.vercel.app/?user=xenhusk&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&border_radius=12&cache_bust=1">
-    <img width="48%" src="https://github-readme-streak-stats-kxe0fudx9-xenhusks-projects.vercel.app/?user=xenhusk&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&border_radius=12&cache_bust=1" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xenhusk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9&area=true&custom_title=Contribution%20Graph&border_radius=12">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=xenhusk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9&area=true&custom_title=Contribution%20Graph&border_radius=12" />
         </picture>
     </div>
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xenhusk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&custom_title=Language%20Mastery&langs_count=8&border_radius=12">
             <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenhusk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&custom_title=Language%20Mastery&langs_count=8&border_radius=12" />
         </picture>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xenhusk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9&area=true&custom_title=Contribution%20Graph&border_radius=12">
-            <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=xenhusk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=C9D1D9&area=true&custom_title=Contribution%20Graph&border_radius=12" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xenhusk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=7C3AED&custom_title=Development%20Stats&include_all_commits=true&count_private=true&border_radius=12&card_width=320">
+            <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xenhusk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=7C3AED&custom_title=Development%20Stats&include_all_commits=true&count_private=true&border_radius=12" />
         </picture>
     </div>
 </div>
