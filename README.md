@@ -286,20 +286,23 @@
                     </p>
                 </div>
             </td>
-            <td align="center" width="50%" style="border: none; padding: 20px;">
-                <div style="background: linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%); padding: 30px; border-radius: 20px; margin: 15px;">
-                    <h3 style="color: white; margin: 0 0 10px 0;">Java Collection</h3>
-                    <p style="color: #fff3e0; margin: 15px 0;">Algorithm Mastery</p>
-                    <div style="margin: 20px 0; display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-                        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-                        <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat&logoColor=white"/>
-                        <img src="https://img.shields.io/badge/OOP-4ECDC4?style=flat&logoColor=white"/>
-                    </div>
-                    <p style="color: #fffde7; font-size: 14px; line-height: 1.6;">
-                        Comprehensive collection demonstrating Java proficiency, OOP design patterns, and algorithmic problem-solving.
-                    </p>
-                </div>
-            </td>
+<td align="center" width="50%" style="border: none; padding: 20px;">
+    <div style="background: linear-gradient(135deg, #43cea2 0%, #185a9d 100%); padding: 30px; border-radius: 20px; margin: 15px;">
+        <h3 style="color: white; margin: 0 0 10px 0;">AI Skin Disease Classification</h3>
+        <p style="color: #e0f7fa; margin: 15px 0;">Deep Learning for Dermatology</p>
+        <div style="margin: 20px 0; display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Medical%20AI-43cea2?style=flat&logoColor=white"/>
+        </div>
+        <p style="color: #e3f2fd; font-size: 14px; line-height: 1.6;">
+            Classifies images into 21+ skin disease categories using transfer learning and MobileNetV2.<br>
+            <a href="https://www.kaggle.com/datasets/pacificrm/skindiseasedataset" style="color: #fff59d;">Dataset</a> |
+            <a href="https://github.com/yourusername/AISkinDiseaseClassification" style="color: #fff59d;">Repository</a>
+        </p>
+    </div>
+</td>
         </tr>
     </table>
 </div>
