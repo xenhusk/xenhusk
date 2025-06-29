@@ -298,8 +298,6 @@
                     </div>
                     <p style="color: #e3f2fd; font-size: 14px; line-height: 1.6;">
                         Classifies images into 21+ skin disease categories using transfer learning and MobileNetV2.<br>
-                        <a href="https://www.kaggle.com/datasets/pacificrm/skindiseasedataset" style="color: #fff59d;">Dataset</a> |
-                        <a href="https://github.com/xenhusk/AISkinDiseaseClassification" style="color: #fff59d;">Repository</a>
                     </p>
                 </div>
             </td>
